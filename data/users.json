@@ -1,0 +1,18 @@
+[
+  {
+    "id": "2ee4c407-03c1-43a6-9e04-9ecdc5b8aea7",
+    "username": "proleak",
+    "password": "$2b$10$P4TLTPgTEQdlXEcrRLRrR.gG0kF.JuZeAtmgu4Kxu7U5629abBIYW",
+    "role": 1,
+    "points": 100100,
+    "timestamp": "2025-01-26T15:05:29.068Z"
+  },
+  {
+    "id": "716c1171-21ed-4946-a0e8-65d849720ab6",
+    "username": "test",
+    "password": "$2b$10$OyKEbBkzakIuJ578IvEri.XbzW8q7u2CY8Tky69nsD8bfFGx8m9vy",
+    "role": 0,
+    "points": 100,
+    "timestamp": "2025-01-26T18:53:55.571Z"
+  }
+]
